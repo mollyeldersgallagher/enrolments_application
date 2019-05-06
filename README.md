@@ -6,7 +6,7 @@ This application was designed to allow users to add create update and delete stu
 - Installation of [Laravel](https://laravel.com/docs/5.8/installation/"Laravel")
 - Download [Node.js](https://nodejs.org/en/)
 ## Running Application
-Install all dependencies and libraries: ```npm install```
-``` composer update ```
-Run server ```php artisan serve ```
-Run ``` npm run watch ```
+- Install all dependencies and libraries: ```npm install```
+- ``` composer update ```
+- Run server ```php artisan serve ```
+- Run ``` npm run watch ```
